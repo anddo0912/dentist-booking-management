@@ -37,7 +37,7 @@ If you need more information please take a look at this [quick tutorial](https:/
 ![DashBoard](https://github.com/anddo0912/dentist-booking-management/blob/main/img/admindash.PNG)
 ### Add Dentist Function
 ![AddDentist](https://github.com/anddo0912/dentist-booking-management/blob/main/img/addDentist.PNG)
-###  View Cart Function
-![Cart](https://github.com/anddo0912/food-store-management/blob/main/img/cart.PNG)
+###  Add Service Function
+![AddService](https://github.com/anddo0912/dentist-booking-management/blob/main/img/addService.PNG)
 
 #### © 2022 anddo0912
